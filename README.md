@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Muhammad Nabiluddin
 
-NIM : 
+NIM : 607062430001
 
 ## Instruksi
 
